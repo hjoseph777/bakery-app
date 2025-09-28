@@ -15,6 +15,7 @@ The Bakery Management System demonstrates core Object-Oriented Programming conce
 ## 📥 Quick Download
 
 **Get the complete project instantly:**
+[![Download Bakery App](https://img.shields.io/badge/Download-bakery--appZip.zip-blue?style=for-the-badge&logo=download)](https://github.com/hjoseph777/bakery-app/releases/download/v1/bakery-appZip.zip)
 
 [![Download Bakery App](https://img.shields.io/badge/Download-bakery--appZip.zip-blue?style=for-the-badge&logo=download)](https://github.com/hjoseph777/bakery-app/releases/download/v1/bakery-appZip.zip)
 
